@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "The Magical Forest",
+    "title": "An enchanting story of a girl and a hidden forest.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/book-day-concept-illustration_114360-7503.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Flavour Bible",
+    "title": "A guide to cooking flavors and food pairings.",
+    "price": 0,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-photo/top-view-tasty-food-frame_23-2148721206.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Music Theory Essentials",
+    "title": "A beginner’s guide to understanding music.",
+    "price": 0,
+    "category": "Music",
+    "image": "https://img.freepik.com/free-photo/flat-lay-musical-instruments-still-life_23-2149370570.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mastering the Game",
+    "title": "Train like an athlete and boost your performance.",
+    "price": 10,
+    "category": "Sport",
+    "image": "https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Drawing for Beginners",
+    "title": "Step-by-step drawing techniques for learners.",
+    "price": 0,
+    "category": "Drawing",
+    "image": "https://img.freepik.com/free-photo/painting-equipment_23-2148864987.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Legends of the Land",
+    "title": "A storybook filled with ancient Indian folktales.",
+    "price": 50,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149436347.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Ultimate Tale",
+    "title": "A deluxe edition of classic fairy tales.",
+    "price": 90,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/reading-book-concept-illustration_114360-8635.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Adventures in the Sky",
+    "title": "A thrilling sky-exploration journey for kids we do it.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/children-reading-books-together_1308-110251.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Brave Little Fox",
+    "title": "A fable of courage, wit and forest friendship.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/kids-reading-forest_1308-113606.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sketch & Shine",
+    "title": "Creative drawing prompts for kids and teens.",
+    "price": 0,
+    "category": "Drawing",
+    "image": "https://img.freepik.com/free-photo/drawing-tools-collection-top-view_23-2148645452.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Science Explorer",
+    "title": "A colorful book of fun experiments and facts.",
+    "price": 0,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-science-education-background_23-2148499325.jpg"
+  }
+]
